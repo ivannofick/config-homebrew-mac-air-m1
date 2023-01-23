@@ -1,5 +1,8 @@
 # config-homebrew-mac-air-m1
 
+## Repo for installing on brew
+https://github.com/shivammathur/homebrew-php
+
 ## how to run ?
 
 sudo nginx = start nginx
